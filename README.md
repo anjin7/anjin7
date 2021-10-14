@@ -1,5 +1,6 @@
 ###  Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin91)](https://github.com/anjin91/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin91&layout=compact&exclude_repo=dolce_beauty)](https://github.com/anjin91/github-readme-stats)
 
 - 🌱 I’m currently learning JavaScript & React
