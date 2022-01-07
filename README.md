@@ -7,10 +7,9 @@
 
 - 💻 Goal : Front-end Developer
 - 🌱 I’m currently learning JavaScript & React
-- 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
 
 <!--
 **anjin91/anjin91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
