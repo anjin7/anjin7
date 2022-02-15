@@ -1,8 +1,8 @@
 ###  Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin91&hide=stars&show_icons=true)](https://github.com/anjin91/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin91&layout=compact&exclude_repo=dolce_beauty)](https://github.com/anjin91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty)](https://github.com/anjin7/github-readme-stats)
 
 
 - 💻 Goal : Front-end Developer
