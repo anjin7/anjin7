@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)
 
 - 💻 Goal : Front-end Developer
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & React & TypeScript
 - [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
 
