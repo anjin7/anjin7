@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222"/>
 <img src="https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>\
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty)](https://github.com/anjin7/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)
 
