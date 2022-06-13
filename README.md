@@ -1,5 +1,3 @@
-###  Hi 👋
-
 ## 💻 Front-end Developer
  📃 [블로그](https://velog.io/@anjin7)
  
