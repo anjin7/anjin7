@@ -1,7 +1,8 @@
 ###  Hi 👋
 
 ## 💻 Front-end Developer
-  
+ 📃 https://velog.io/@anjin7
+ 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
 &nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
