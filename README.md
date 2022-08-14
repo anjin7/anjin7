@@ -1,4 +1,5 @@
 ## 💻 Front-end Developer
+-  📃 [블로그](https://velog.io/@anjin7)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
@@ -7,7 +8,7 @@
 &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222"/>
 &nbsp;<img src="https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB"/>
 &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
-`-`  📃 [블로그](https://velog.io/@anjin7)
+
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty)](https://github.com/anjin7/github-readme-stats)
