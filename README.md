@@ -1,5 +1,5 @@
 ## 💻 Front-end Developer
-####  📃 [블로그](https://velog.io/@anjin7){:target="_blank"}
+####  📃 [블로그](https://velog.io/@anjin7){: target="_blank"}
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
