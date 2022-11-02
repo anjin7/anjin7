@@ -13,7 +13,7 @@
 
  
 
-[![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&include_all_commits=true&show_icons=true)](https://github.com/anjin7/github-readme-stats)
+[![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats)
 
 
 <!-- &exclude_repo=dolce_beauty -->
