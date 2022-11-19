@@ -10,6 +10,7 @@
 &nbsp;<img src="https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB"/>
 
 🌱<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
+&nbsp;<img src="https://img.shields.io/badge/Python-FFE873?style=flat&logo=python&logoColor=4B8BBE"/>
 
  
 
