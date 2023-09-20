@@ -1,7 +1,7 @@
 ## 💻 Front-end Developer
 
 
-####  📃 <a href="https://velog.io/@anjin7" target="_blank">블로그</a>  📃<a href="https://velog.io/@anjin7/2023" target="_blank">2023</a>
+####  📃 <a href="https://velog.io/@anjin7" target="_blank">블로그</a>  
 
 
 [![Solved.ac
@@ -12,8 +12,8 @@
 &nbsp;<img src="https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB"/>
 
 🌱<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
-&nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
-&nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>
+<!-- &nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
+&nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>-->
 
 [![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats)
 
