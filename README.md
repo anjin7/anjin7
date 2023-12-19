@@ -12,6 +12,7 @@
 &nbsp;<img src="https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB"/>
 
 🌱<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff"/>
+&nbsp;<img src="https://img.shields.io/badge/Next.js-e0e0e0?style=flat&logo=Next.js&logoColor=000000"/>
 <!-- &nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
 &nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>-->
 
