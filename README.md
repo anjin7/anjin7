@@ -16,7 +16,7 @@
 <!-- &nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
 &nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>-->
 
-[![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats)
+<!-- [![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats) -->
 
 
 <!-- &exclude_repo=dolce_beauty -->
