@@ -1,11 +1,16 @@
 ## 💻 Front-end Developer
 
 
-####  📃 <a href="https://velog.io/@anjin7" target="_blank">블로그</a>  
 
+
+####  📃 <a href="https://velog.io/@anjin7" target="_blank">블로그</a>  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wldls0719)](https://solved.ac/wldls0719)
+
+<!-- [![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats) 
+
 &nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
 &nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff"/>
 &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222"/>
@@ -16,10 +21,6 @@
 &nbsp;<img src="https://img.shields.io/badge/Next.js-f9f9f9?style=flat&logo=Next.js&logoColor=000000"/>
 <!-- &nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
 &nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>-->
-
-<!-- [![Anjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjin7&hide=stars&show_icons=true)](https://github.com/anjin7/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjin7&layout=compact&exclude_repo=dolce_beauty&langs_count=6)](https://github.com/anjin7/github-readme-stats) 
-
 
 <!-- &exclude_repo=dolce_beauty -->
 <!-- &nbsp;<img src="https://img.shields.io/badge/Python-FFE873?style=flat&logo=python&logoColor=4B8BBE"/> -->
