@@ -22,10 +22,7 @@
 <!-- &nbsp;<img src="https://img.shields.io/badge/Dart-73c1be?style=flat&logo=dart&logoColor=0076be"/>
 &nbsp;<img src="https://img.shields.io/badge/Flutter-54c0f4?style=flat&logo=flutter&logoColor=357fb4"/>-->
 
-<!-- &exclude_repo=dolce_beauty -->
 <!-- &nbsp;<img src="https://img.shields.io/badge/Python-FFE873?style=flat&logo=python&logoColor=4B8BBE"/> -->
-
-
 <!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/> -->
 
 <!--
